@@ -5,7 +5,7 @@
 <br clear="both">
 
 <h2 data-importer="text" align="center">Junior Game Designer & Developer | Fresh grad with hands-on Unity, Roblox & Figma experience. Leverages AI-assisted coding for fast gameplay prototyping, economy balancing, and QA testing. Winner of the Outstanding CWIE Innovation Award adaptable, hardworking, and ready to learn.</h2>
-<h2 data-importer="text" align="center"> email: witthaya.audomrat@gmail.com </h2>
+<h2 data-importer="text" align="center"> Portfolio: https://mona65dp.github.io/Portfolio/ </h2>
 
 ###
 
